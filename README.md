@@ -5,8 +5,8 @@
 Perkenalkan, nama saya <b>Bachtiar Ramadhan</b>. Saya lahir pada hari <b>Kamis</b>, tanggal <b>21 Desember 2000</b> di <b>Pekanbaru, Riau</b>. Saya tinggal di <b>Kuningan, Jawa Barat</b>. Apa yang saya push di sini adalah bahan pengajaran saya sendiri. Motto hidup saya adalah <b>"Murid Seumur Hidup"</b>.
 
 ## Educational History
-1. <a href="https://sman2kuningan.sch.id">SMA NEGERI 2 KUNINGAN</a>
-2. <a href="https://poltekpos.ac.id">POLITEKNIK POS INDONESIA</a>
+- **<a href="https://sman2kuningan.sch.id">SMA NEGERI 2 KUNINGAN</a>
+- **<a href="https://poltekpos.ac.id">POLITEKNIK POS INDONESIA</a>
 
 ## Laravel Sponsors
 
