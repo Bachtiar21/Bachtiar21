@@ -4,11 +4,9 @@
 
 Perkenalkan, nama saya <b>Bachtiar Ramadhan</b>. Saya lahir pada hari <b>Kamis</b>, tanggal <b>21 Desember 2000</b> di <b>Pekanbaru, Riau</b>. Saya tinggal di <b>Kuningan, Jawa Barat</b>. Apa yang saya push di sini adalah bahan pengajaran saya sendiri. Motto hidup saya adalah <b>"Murid Seumur Hidup"</b>.
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Educational History
+1. <a href="https://sman2kuningan.sch.id">SMA NEGERI 2 KUNINGAN</a>
+2. <a href="https://poltekpos.ac.id">POLITEKNIK POS INDONESIA</a>
 
 ## Laravel Sponsors
 
