@@ -4,13 +4,17 @@
 
 Perkenalkan, nama saya <b>Bachtiar Ramadhan</b>. Saya lahir pada hari <b>Kamis</b>, tanggal <b>21 Desember 2000</b> di <b>Pekanbaru, Riau</b>. Saya tinggal di <b>Kuningan, Jawa Barat</b>. Apa yang saya push di sini adalah bahan pengajaran saya sendiri. Motto hidup saya adalah <b>"Murid Seumur Hidup"</b>.
 
-## Educational History
-- **<a href="https://sman2kuningan.sch.id">SMA NEGERI 2 KUNINGAN</a>
-- **<a href="https://poltekpos.ac.id">POLITEKNIK POS INDONESIA</a>
+## Riwayat Pendidikan
 
-## Laravel Sponsors
+- <a href="https://sman2kuningan.sch.id">SMA NEGERI 2 KUNINGAN</a> dari tahun 2016 sampai tahun 2019.
+- <a href="https://poltekpos.ac.id">POLITEKNIK POS INDONESIA</a> dari tahun 2020 sampai sekarang.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Sedang Belajar
+
+- Python Language
+- Framework & PHP Language
+- React Js
+- Data Science
 
 ### Premium Partners
 
