@@ -11,6 +11,7 @@
 - Framework & PHP Language
 - React Js
 - Data Science
+- Machine Learning
 
 ## Contact
 
