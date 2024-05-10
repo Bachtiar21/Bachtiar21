@@ -10,7 +10,7 @@
 
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
+<img src="/assets/images/developer.webp" align="right" width="350">
 </a>
 </picture>
 
@@ -19,11 +19,9 @@
 import { Person } from 'indonesia';
 
 new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id',
-    married: !!!true,
+    name   : 'Bachtiar Ramadhan',
+    title  : 'Front End Developer',
+    email  : 'bachtiarramadhan26@gmail.com',
 }).introduce();
 ```
 
@@ -32,44 +30,8 @@ D:\Deri-Kurniawan> node index.js
 Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 ```
 
-<div align="center">
-
 [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-🌆 Daytime                2392 commits        ███████████░░░░░░░░░░░░░░   43.34 % 
-🌃 Evening                1886 commits        █████████░░░░░░░░░░░░░░░░   34.17 % 
-🌙 Night                  656 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               29 hrs 1 min        █████████████████████░░░░   84.78 % 
-JSON                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Bash                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-
-🔥 Editors: 
-VS Code                  34 hrs 13 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  34 hrs 13 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 10-05-2024 17:18:47 UTC
-<!--END_SECTION:waka-->
-  
 </div>
 
 <!--x axis divider-->
@@ -141,8 +103,6 @@ Windows                  34 hrs 13 mins      ███████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<!-- Support me -->
-<h3 align="center">☕Support Me☕</h3>
 
 <div align="center">
   
@@ -159,6 +119,7 @@ Windows                  34 hrs 13 mins      ███████████�
 <div align="center">
     Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
 </div>
+
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
