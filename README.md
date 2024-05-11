@@ -53,41 +53,6 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<h3 align="center">🔥Streak Stats🔥</h3>
-
-<!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<h3 align="center">⭐My Favorite Repo⭐</h3>
-
-<div>
-  <p align="center">
-	<a href="https://github.com/Deri-Kurniawan/windows-11-os">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=windows-11-os&theme=transparent" alt="GitHub Stats" />
-    	</a>
-	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/derizer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
-    	</a>
-</div>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
@@ -99,14 +64,6 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 [![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
   
 </div>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-
-<div align="center">
-  
-[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
