@@ -46,7 +46,7 @@ Hi, my name is Bachtiar Ramadhan, I'm a Front End Developer from Indonesia.
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,python,react,golang,tailwindcss,laravel,mysql,git,vscode,figma,vercel,vite,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,php,python,react,golang,tailwindcss,laravel,mysql,git,vscode,figma,&perline=6" />
 </a>
 </p>
 
