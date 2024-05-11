@@ -26,11 +26,11 @@ new Person({
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+B:\Bachtiar Ramadhan> node index.js
+Hi, my name is Bachtiar Ramadhan, I'm a Front End Developer from Indonesia.
 ```
 
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Bachtiar21?label=Followers) ![Stars](https://img.shields.io/github/stars/Bachtiar21?label=Stars)
 
 </div>
 
@@ -46,7 +46,7 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,php,python,react,golang,tailwindcss,laravel,mysql,git,vscode,figma,vercel,vite,prisma&perline=6" />
 </a>
 </p>
 
